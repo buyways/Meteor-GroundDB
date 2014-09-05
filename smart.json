@@ -8,6 +8,7 @@
 	"packages": {
 		"ejson-minimax": {
 			"git": "https://github.com/GroundMeteor/ejson-minimax.git"
+            "tag": "v0.0.6"
 		}
 	}
 }
